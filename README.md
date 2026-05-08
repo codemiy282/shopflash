@@ -122,6 +122,3 @@ Contributions are welcome. Suggested workflow:
 
 This project is licensed under the terms in the `LICENSE` file.
 
----
-
-If you'd like, I can further tailor this README with screenshots, API examples, or deployment instructions (Docker/GitHub Actions). Reply with which additions you want.
